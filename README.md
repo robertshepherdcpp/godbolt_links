@@ -10,3 +10,4 @@
 - https://godbolt.org/z/ce6x5or69      (A cool program, not made by me though)
 - https://godbolt.org/z/PvfEEzn7f      (`mlib::string_parse` program)
 - https://godbolt.org/z/sjMe5n396      (`NAMEOF` program)
+- https://godbolt.org/z/WPYcMTxEz      (Trail of a compile time sort)
